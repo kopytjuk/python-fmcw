@@ -15,7 +15,7 @@ You need good understanding of DFTs in order to understand the mechanics of Chir
 
 ## Set up
 
-In this project, I used pyenv and poetry.
+In this project, I used [pyenv](https://github.com/pyenv/pyenv) and [poetry](https://python-poetry.org/docs/):
 
 ```shell
 poetry install
@@ -26,8 +26,6 @@ poetry shell
 # Have fun!
 jupyter lab
 ```
-
-After that you can 
 
 ## License
 
